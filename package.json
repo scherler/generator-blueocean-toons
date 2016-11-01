@@ -1,6 +1,6 @@
 {
   "name": "generator-blueocean-toons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jenkins Blue Ocean Simple Plugin/HPI Generator - toons notifications -  Run Details",
   "files": [
     "app"

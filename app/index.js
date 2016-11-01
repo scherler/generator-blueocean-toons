@@ -66,7 +66,7 @@ module.exports = generators.Base.extend({
                 type: 'input',
                 name: 'artifactId',
                 message: 'artifactId',
-                default: 'blueocean-usain'
+                default: 'blueocean-toons'
             },
             {
                 type: 'input',
@@ -166,11 +166,11 @@ module.exports = generators.Base.extend({
         this.log("     step in this job (e.g. 10 seconds), stopping it from finishing");
         this.log("     immediately when run.");
         this.log("  7. Go to http://localhost:8080/jenkins/blue and run the job.");
-        this.log("  8. Go to the 'Run Details' page of the executing job and see Usain");
-        this.log("     Bolt do his thing.");
+        this.log("  8. Go to the 'Run Details' page of the executing job and see the");
+        this.log("     toons do their thing.");
         this.log("");
         this.log("For more information and other build options, go to");
-        this.log("https://www.npmjs.com/package/generator-blueocean-usain");
+        this.log("https://www.npmjs.com/package/generator-blueocean-toons");
         this.log("");
         this.log("*************************************************************************");
         this.log("");
