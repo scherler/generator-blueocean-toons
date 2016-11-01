@@ -1,14 +1,14 @@
 {
-  "name": "generator-blueocean-usain",
-  "version": "0.0.11",
-  "description": "Jenkins Blue Ocean Simple Plugin/HPI Generator - Usain Run Details",
+  "name": "generator-blueocean-toons",
+  "version": "1.0.0",
+  "description": "Jenkins Blue Ocean Simple Plugin/HPI Generator - toons notifications -  Run Details",
   "files": [
     "app"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tom Fennelly <tom.fennelly@gmail.com> (https://github.com/tfennelly)",
+  "author": "Thorsten Scherler <scherler@gmail.com> (https://github.com/scherler)",
   "license": "MIT",
   "keywords": [
     "yeoman-generator",

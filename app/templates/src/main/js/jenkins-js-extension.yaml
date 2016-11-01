@@ -6,5 +6,5 @@
 #
 
 extensions:
-  - component: Usain
+  - component: Toons
     extensionPoint: jenkins.pipeline.run.result
